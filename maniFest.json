@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"eads tracker",
+    "action":{
+        "default_popup":"googlechrome_extension.html",
+        "default_icon":"icon.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
